@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+A branch is basically a timeline.  Different events, or commits, happen along the way as a project grows and develops.  Different branches, or tangents from the original timeline, can be created, modified, and combined with others allowing developers to segment their work and more easily collaborate.
