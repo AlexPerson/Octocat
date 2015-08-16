@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+An upstream remote is any repository you are receiving data from (pushing to, pulling from, copying, etc.). Upstream refers to the flow of information downstream somewhere else.
