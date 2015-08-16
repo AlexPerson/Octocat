@@ -1,2 +1,1 @@
-Explain what git clone does, in your own words.
-
+When you run git clone, git first creates a new directory on your local computer with the same name as the repository being cloned, changes into that directory, initializes a git repository, adds a remote or a link between a local repository and the one on github, it then pulls the latest commands from the remote (origin) and copies them into your local repository, and finally changes back into the original (parent of the cloned file's) directory.
